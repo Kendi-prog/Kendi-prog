@@ -47,7 +47,7 @@ I'm a full-stack software developer who enjoys building scalable backend applica
 
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,135deg,C850C0,4158D0&height=100&section=footer" width="100%"/>
 </div>
 
 
