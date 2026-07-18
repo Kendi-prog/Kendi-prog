@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Joy%20Leila%20Kendi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descAlignY=55&descColor=ffffff&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Joy%20Leila%20Kendi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descAlignY=55&descColor=ffffff&descSize=16" width="100%"/>
 </div>
 
 <!-- Tagline -->
@@ -47,7 +47,7 @@ I'm a full-stack software developer who enjoys building scalable backend applica
 
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,135deg,C850C0,4158D0&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=100&section=footer" width="100%"/>
 </div>
 
 
