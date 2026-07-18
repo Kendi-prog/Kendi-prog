@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Joy%20Leila%20Kendi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descAlignY=55&descColor=ffffff&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7209B7&height=200&section=header&text=Joy%20Leila%20Kendi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descAlignY=55&descColor=ffffff&descSize=16" width="100%"/>
 </div>
 
 <!-- Tagline -->
