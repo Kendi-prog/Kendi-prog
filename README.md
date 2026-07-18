@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kendi 👋
 
-<!--
-**Kendi-prog/Kendi-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Jomo Kenyatta University of Agriculture and Technology (JKUAT), based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+I enjoy building reliable backend applications with **Java** and **Spring Boot**, creating modern web interfaces with **React** and **TypeScript**, and applying **AI and computer vision** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+Java • Spring Boot • React • TypeScript • Python • SQL • Angular (Learning) • Git • Linux
+
+## 🌱 Currently Learning
+
+* Spring Boot best practices
+* Microservices Architecture
+* Docker
+
+
+
+
+
+
